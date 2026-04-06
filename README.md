@@ -1,4 +1,4 @@
-# 🛡️ Identity-Based Alert Investigation Lab (Splunk)
+# 🛡️ Identity-Based Alert + Brute Force Investigation Lab (Splunk)
 
 ## 🧠 Objective
 Investigate failed authentication activity using Splunk to identify suspicious user behavior and simulate a Tier 1 SOC alert triage workflow.
